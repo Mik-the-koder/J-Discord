@@ -1,3 +1,6 @@
+# Hi
+I don't know how I'm the owner of this repo, [@Aareon](https://github.com/Aareon) made this. 
+
 # Discord-Netcoin-Bot
 The files included in this repo are intended to be used as "cogs" in the RED Discord Bot.
 These files are intended to function as a multi-functional tipbot for "Netcoin"
