@@ -1,5 +1,6 @@
-# Hi
-I don't know how I'm the owner of this repo, [@Aareon](https://github.com/Aareon) made this. 
+# Hi :wavehand:
+I don't know how I'm the owner of this repo, [@Aareon](https://github.com/Aareon) made this.
+PS: For the script kiddies reading this code, I think the pass and shiz over there were local creds on his computer, so don't get too excited.
 
 # Discord-Netcoin-Bot
 The files included in this repo are intended to be used as "cogs" in the RED Discord Bot.
